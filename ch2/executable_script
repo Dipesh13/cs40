@@ -1,0 +1,2 @@
+chmod +x filename.py
+./filename.py
